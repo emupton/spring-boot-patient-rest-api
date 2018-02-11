@@ -1,5 +1,5 @@
 # hcare-backend
-REST API that serves patient data from a MongoDB using Sprint boot.
+REST API that serves patient data from a MongoDB using Sprint boot. View to eventually implement hData specification.
 
 ## TODO:
 - Implement MongoDB-based authentication and authorization (requires updates to patient model)
